@@ -1,0 +1,65 @@
+{
+    "_id" : "ABC1234",
+    "marca" : "Toyota",
+    "modelo" : "Corolla",
+    "color" : "Rojo",
+    "año" : NumberInt(2022),
+    "plazas" : NumberInt(5),
+    "tipo" : "ejecutivo",
+    "caja" : "automática",
+    "disponible" : "si",
+    "precio_dia" : NumberInt(1500),
+    "telepeaje" : "si"
+}
+{
+    "_id" : "DEF5678",
+    "marca" : "Volkswagen",
+    "modelo" : "Golf",
+    "color" : "Azul",
+    "año" : NumberInt(2021),
+    "plazas" : NumberInt(5),
+    "tipo" : "premium",
+    "caja" : "manual",
+    "disponible" : "si",
+    "precio_dia" : NumberInt(1200),
+    "telepeaje" : "si"
+}
+{
+    "_id" : "GHI9012",
+    "marca" : "Ford",
+    "modelo" : "Focus",
+    "color" : "Negro",
+    "año" : NumberInt(2023),
+    "plazas" : NumberInt(5),
+    "tipo" : "básico",
+    "caja" : "automática",
+    "disponible" : "no",
+    "precio_dia" : NumberInt(1000),
+    "telepeaje" : "si"
+}
+{
+    "_id" : "JKL3456",
+    "marca" : "Chevrolet",
+    "modelo" : "Cruze",
+    "color" : "Blanco",
+    "año" : NumberInt(2022),
+    "plazas" : NumberInt(5),
+    "tipo" : "premium",
+    "caja" : "automática",
+    "disponible" : "si",
+    "precio_dia" : NumberInt(1300),
+    "telepeaje" : "si"
+}
+{
+    "_id" : "MNO7890",
+    "marca" : "Honda",
+    "modelo" : "Civic",
+    "color" : "Gris",
+    "año" : NumberInt(2023),
+    "plazas" : NumberInt(5),
+    "tipo" : "ejecutivo",
+    "caja" : "automática",
+    "disponible" : "si",
+    "precio_dia" : NumberInt(1400),
+    "telepeaje" : "si"
+}
