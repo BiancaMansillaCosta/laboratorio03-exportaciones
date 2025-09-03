@@ -1,0 +1,67 @@
+{
+    "_id" : "ABC123",
+    "marca" : "Toyota",
+    "modelo" : "Corolla",
+    "color" : "Blanco",
+    "año" : NumberInt(2020),
+    "plazas" : NumberInt(5),
+    "tipo" : "básico",
+    "caja" : "manual",
+    "disponible" : "sí",
+    "precio_dia" : NumberInt(45),
+    "sale_pais" : "no"
+}
+{
+    "_id" : "DEF456",
+    "marca" : "Hyundai",
+    "modelo" : "Elantra",
+    "color" : "Negro",
+    "año" : NumberInt(2021),
+    "plazas" : NumberInt(5),
+    "tipo" : "premium",
+    "caja" : "automática",
+    "disponible" : "sí",
+    "precio_dia" : NumberInt(60),
+    "sale_pais" : "sí"
+}
+{
+    "_id" : "GHI789",
+    "marca" : "Chevrolet",
+    "modelo" : "Spark",
+    "color" : "Rojo",
+    "año" : NumberInt(2019),
+    "plazas" : NumberInt(4),
+    "tipo" : "utilitario",
+    "caja" : "manual",
+    "disponible" : "no",
+    "precio_dia" : NumberInt(35),
+    "sale_pais" : "no"
+}
+{
+    "_id" : "JKL012",
+    "marca" : "Ford",
+    "modelo" : "Focus",
+    "color" : "Azul",
+    "año" : NumberInt(2022),
+    "plazas" : NumberInt(5),
+    "tipo" : "ejecutivo",
+    "caja" : "automática",
+    "disponible" : "sí",
+    "precio_dia" : NumberInt(70),
+    "sale_pais" : "sí"
+}
+{
+    "_id" : "MNO345",
+    "marca" : "Volkswagen",
+    "modelo" : "Golf",
+    "color" : "Gris",
+    "año" : NumberInt(2020),
+    "plazas" : NumberInt(5),
+    "tipo" : "básico",
+    "caja" : "manual",
+    "disponible" : "sí",
+    "precio_dia" : NumberInt(50),
+    "sale_pais" : "no"
+}
+
+}

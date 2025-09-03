@@ -1,0 +1,115 @@
+{
+    "_id" : NumberInt(1),
+    "fecha_retiro" : "2023-07-01",
+    "hora_retiro" : "10:00",
+    "vehículo" : {
+        "_id" : "ABC123",
+        "marca" : "Toyota",
+        "modelo" : "Corolla",
+        "color" : "Blanco",
+        "año" : NumberInt(2020),
+        "plazas" : NumberInt(5),
+        "tipo" : "básico",
+        "caja" : "manual",
+        "disponible" : "sí",
+        "precio_dia" : NumberInt(45),
+        "sale_pais" : "no"
+    },
+    "cliente" : null,
+    "fecha_retorno" : "2023-07-05",
+    "hora_retorno" : "14:00",
+    "kms_libres" : NumberInt(500),
+    "combustible" : "lleno"
+}
+{
+    "_id" : NumberInt(2),
+    "fecha_retiro" : "2023-07-10",
+    "hora_retiro" : "09:30",
+    "vehículo" : {
+        "_id" : "DEF456",
+        "marca" : "Hyundai",
+        "modelo" : "Elantra",
+        "color" : "Negro",
+        "año" : NumberInt(2021),
+        "plazas" : NumberInt(5),
+        "tipo" : "premium",
+        "caja" : "automática",
+        "disponible" : "sí",
+        "precio_dia" : NumberInt(60),
+        "sale_pais" : "sí"
+    },
+    "cliente" : null,
+    "fecha_retorno" : "2023-07-12",
+    "hora_retorno" : "11:00",
+    "kms_libres" : NumberInt(300),
+    "combustible" : "medio"
+}
+{
+    "_id" : NumberInt(3),
+    "fecha_retiro" : "2023-08-01",
+    "hora_retiro" : "08:00",
+    "vehículo" : {
+        "_id" : "JKL012",
+        "marca" : "Ford",
+        "modelo" : "Focus",
+        "color" : "Azul",
+        "año" : NumberInt(2022),
+        "plazas" : NumberInt(5),
+        "tipo" : "ejecutivo",
+        "caja" : "automática",
+        "disponible" : "sí",
+        "precio_dia" : NumberInt(70),
+        "sale_pais" : "sí"
+    },
+    "cliente" : null,
+    "fecha_retorno" : "2023-08-03",
+    "hora_retorno" : "17:00",
+    "kms_libres" : NumberInt(400),
+    "combustible" : "más de medio"
+}
+{
+    "_id" : NumberInt(4),
+    "fecha_retiro" : "2023-08-15",
+    "hora_retiro" : "13:00",
+    "vehículo" : {
+        "_id" : "MNO345",
+        "marca" : "Volkswagen",
+        "modelo" : "Golf",
+        "color" : "Gris",
+        "año" : NumberInt(2020),
+        "plazas" : NumberInt(5),
+        "tipo" : "básico",
+        "caja" : "manual",
+        "disponible" : "sí",
+        "precio_dia" : NumberInt(50),
+        "sale_pais" : "no"
+    },
+    "cliente" : null,
+    "fecha_retorno" : "2023-08-18",
+    "hora_retorno" : "10:00",
+    "kms_libres" : NumberInt(350),
+    "combustible" : "menos de medio"
+}
+{
+    "_id" : NumberInt(5),
+    "fecha_retiro" : "2023-09-01",
+    "hora_retiro" : "15:30",
+    "vehículo" : {
+        "_id" : "GHI789",
+        "marca" : "Chevrolet",
+        "modelo" : "Spark",
+        "color" : "Rojo",
+        "año" : NumberInt(2019),
+        "plazas" : NumberInt(4),
+        "tipo" : "utilitario",
+        "caja" : "manual",
+        "disponible" : "no",
+        "precio_dia" : NumberInt(35),
+        "sale_pais" : "no"
+    },
+    "cliente" : null,
+    "fecha_retorno" : "2023-09-04",
+    "hora_retorno" : "12:00",
+    "kms_libres" : NumberInt(250),
+    "combustible" : "lleno"
+}

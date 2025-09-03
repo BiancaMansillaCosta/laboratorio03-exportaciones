@@ -1,0 +1,134 @@
+{
+    "_id" : "12345678",
+    "nombre" : "Juan",
+    "apellido" : "Pérez",
+    "fecha_nacimiento" : "1990-05-10",
+    "licencia_conducir" : {
+        "numero" : "LIC001",
+        "origen" : {
+            "ciudad" : "Montevideo",
+            "país" : "Uruguay"
+        },
+        "categorías" : [
+            "A",
+            "B"
+        ],
+        "fecha_vencimiento" : "2025-06-01"
+    },
+    "dirección" : {
+        "calle_nro" : "033",
+        "ciudad" : "Artigas",
+        "país" : "Uruguay"
+    },
+    "email" : "user@ejemplo.com",
+    "teléfonos" : [
+        "098882733"
+    ]
+}
+{
+    "_id" : "87654321",
+    "nombre" : "Ana",
+    "apellido" : "Gómez",
+    "fecha_nacimiento" : "1985-11-22",
+    "licencia_conducir" : {
+        "numero" : "LIC002",
+        "origen" : {
+            "ciudad" : "Salto",
+            "país" : "Uruguay"
+        },
+        "categorías" : [
+            "B"
+        ],
+        "fecha_vencimiento" : "2024-12-15"
+    },
+    "dirección" : {
+        "calle_nro" : "033",
+        "ciudad" : "Artigas",
+        "país" : "Uruguay"
+    },
+    "email" : "user@ejemplo.com",
+    "teléfonos" : [
+        "098882733"
+    ]
+}
+{
+    "_id" : "11223344",
+    "nombre" : "Carlos",
+    "apellido" : "Rodríguez",
+    "fecha_nacimiento" : "1992-03-18",
+    "licencia_conducir" : {
+        "numero" : "LIC003",
+        "origen" : {
+            "ciudad" : "Paysandú",
+            "país" : "Uruguay"
+        },
+        "categorías" : [
+            "A",
+            "C"
+        ],
+        "fecha_vencimiento" : "2026-08-30"
+    },
+    "dirección" : {
+        "calle_nro" : "033",
+        "ciudad" : "Artigas",
+        "país" : "Uruguay"
+    },
+    "email" : "user@ejemplo.com",
+    "teléfonos" : [
+        "098882733"
+    ]
+}
+{
+    "_id" : "44332211",
+    "nombre" : "Lucía",
+    "apellido" : "Fernández",
+    "fecha_nacimiento" : "1995-07-05",
+    "licencia_conducir" : {
+        "numero" : "LIC004",
+        "origen" : {
+            "ciudad" : "Rivera",
+            "país" : "Uruguay"
+        },
+        "categorías" : [
+            "B"
+        ],
+        "fecha_vencimiento" : "2023-10-20"
+    },
+    "dirección" : {
+        "calle_nro" : "033",
+        "ciudad" : "Artigas",
+        "país" : "Uruguay"
+    },
+    "email" : "user@ejemplo.com",
+    "teléfonos" : [
+        "098882733"
+    ]
+}
+{
+    "_id" : "55667788",
+    "nombre" : "Martín",
+    "apellido" : "Silva",
+    "fecha_nacimiento" : "1988-01-30",
+    "licencia_conducir" : {
+        "numero" : "LIC005",
+        "origen" : {
+            "ciudad" : "Artigas",
+            "país" : "Uruguay"
+        },
+        "categorías" : [
+            "A",
+            "B",
+            "C"
+        ],
+        "fecha_vencimiento" : "2027-03-12"
+    },
+    "dirección" : {
+        "calle_nro" : "033",
+        "ciudad" : "Artigas",
+        "país" : "Uruguay"
+    },
+    "email" : "user@ejemplo.com",
+    "teléfonos" : [
+        "098882733"
+    ]
+}
