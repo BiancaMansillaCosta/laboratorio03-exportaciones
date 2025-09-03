@@ -1,0 +1,95 @@
+{
+    "_id" : NumberInt(1),
+    "fecha_retiro" : "2023-08-01",
+    "hora_retiro" : "10:00",
+    "vehiculo" : {
+        "_id" : "SBA1234",
+        "marca" : "Toyota",
+        "modelo" : "Corolla"
+    },
+    "cliente" : {
+        "_id" : "45678901",
+        "nombre" : "Juan",
+        "apellido" : "Pérez"
+    },
+    "fecha_retorno" : "2023-08-05",
+    "hora_retorno" : "10:00",
+    "kms_libres" : NumberInt(500),
+    "combustible" : "lleno"
+}
+{
+    "_id" : NumberInt(2),
+    "fecha_retiro" : "2023-08-03",
+    "hora_retiro" : "09:00",
+    "vehiculo" : {
+        "_id" : "SBA5678",
+        "marca" : "Hyundai",
+        "modelo" : "Accent"
+    },
+    "cliente" : {
+        "_id" : "56789012",
+        "nombre" : "María",
+        "apellido" : "Gómez"
+    },
+    "fecha_retorno" : "2023-08-07",
+    "hora_retorno" : "09:00",
+    "kms_libres" : NumberInt(400),
+    "combustible" : "medio"
+}
+{
+    "_id" : NumberInt(3),
+    "fecha_retiro" : "2023-08-04",
+    "hora_retiro" : "14:30",
+    "vehiculo" : {
+        "_id" : "SBB4321",
+        "marca" : "Chevrolet",
+        "modelo" : "Onix"
+    },
+    "cliente" : {
+        "_id" : "67890123",
+        "nombre" : "Lucas",
+        "apellido" : "Fernández"
+    },
+    "fecha_retorno" : "2023-08-06",
+    "hora_retorno" : "14:30",
+    "kms_libres" : NumberInt(300),
+    "combustible" : "menos de medio"
+}
+{
+    "_id" : NumberInt(4),
+    "fecha_retiro" : "2023-08-10",
+    "hora_retiro" : "11:00",
+    "vehiculo" : {
+        "_id" : "SBC8765",
+        "marca" : "Ford",
+        "modelo" : "Focus"
+    },
+    "cliente" : {
+        "_id" : "78901234",
+        "nombre" : "Ana",
+        "apellido" : "Rodríguez"
+    },
+    "fecha_retorno" : "2023-08-15",
+    "hora_retorno" : "11:00",
+    "kms_libres" : NumberInt(600),
+    "combustible" : "mas de medio"
+}
+{
+    "_id" : NumberInt(5),
+    "fecha_retiro" : "2023-08-12",
+    "hora_retiro" : "08:00",
+    "vehiculo" : {
+        "_id" : "SBD1122",
+        "marca" : "Volkswagen",
+        "modelo" : "Gol"
+    },
+    "cliente" : {
+        "_id" : "89012345",
+        "nombre" : "Martín",
+        "apellido" : "Silva"
+    },
+    "fecha_retorno" : "2023-08-14",
+    "hora_retorno" : "08:00",
+    "kms_libres" : NumberInt(200),
+    "combustible" : "lleno"
+}
